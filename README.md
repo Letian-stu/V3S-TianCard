@@ -3,4 +3,4 @@
 
 ## pcb是立创专业版
 
-![]([http://www.baidu.com/img/bdlogo.gif](https://github.com/Letian-stu/V3S-TianCard/blob/main/Picture/front_v1.2.png))  
+![](https://github.com/Letian-stu/V3S-TianCard/blob/main/Picture/front_v1.2.png)
