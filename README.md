@@ -3,4 +3,5 @@
 
 ## pcb是立创专业版
 
-![](https://github.com/Letian-stu/V3S-TianCard/blob/main/Picture/front_v1.2.png)
+![3D_V1.2](https://github.com/Letian-stu/V3S-TianCard/blob/main/Picture/front_v1.2.png)
+![running_V1.1](https://github.com/Letian-stu/V3S-TianCard/blob/main/Picture/V1.1_2.jpg)
