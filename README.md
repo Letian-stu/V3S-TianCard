@@ -7,3 +7,6 @@
 ## V1.2 把功放改成耳机接口 优化了V1.1中错误的部分 但是V1.2还在jlc 还未验证
 ![3D_front_V1.2](https://github.com/Letian-stu/V3S-TianCard/blob/main/Picture/front_v1.2.png)
 ![3D_back_V1.2](https://github.com/Letian-stu/V3S-TianCard/blob/main/Picture/back.png)
+
+## 哔哩哔哩
+https://www.bilibili.com/video/BV1aW4y1C7pH/?spm_id_from=333.999.0.0&vd_source=5a3738895b167685395154934912a846
